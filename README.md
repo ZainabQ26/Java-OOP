@@ -1,8 +1,8 @@
-# 📚 Java OOP
+#Java OOP
 
 Intermediate Java projects focusing on Object-Oriented Programming, data structures, and algorithm implementation.
 
-## 💻 Projects
+## Projects
 
 - **Inheritance (Pet System)** - Demonstrates inheritance with Bird, Cat, Fish extending Pet class
 - **Account Management** - Banking system with account operations
@@ -12,15 +12,15 @@ Intermediate Java projects focusing on Object-Oriented Programming, data structu
 - **Quadratic Equation Solver** - Solves quadratic equations with complex number support
 - **Prime Stack** - Stack implementation for prime number operations
 
-## 🎓 Concepts
+## Concepts
 - Class inheritance and polymorphism
 - Data structure implementation
 - Algorithm optimization
 - Mathematical computations
 
-## 🛠️ Tech
+## Tech
 - Java
 - IntelliJ IDEA
 
-## 💬 Contact
+## Contact
 **Zainab Qazi** - [GitHub](https://github.com/ZainabQ26) - [LinkedIn](https://www.linkedin.com/in/zainab--qazi/)
